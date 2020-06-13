@@ -27,7 +27,8 @@
 
 ## Software
 
-| Software | Version                                           |
+| Software | Version |
+| ------------------- | ------------------------------------------- |
 | OpenCore | 0.5.9 |
 | VirtualSMC | 1.14.0 |
 | Lilu | 1.4.5 |
