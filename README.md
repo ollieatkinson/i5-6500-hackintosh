@@ -1,6 +1,6 @@
-# macOS Catalina on Intel i5 6500, Gigabyte Z170X-UD5 TH with a RX 5700
+# macOS Catalina using OpenCore on Intel i5 6500, Gigabyte Z170X-UD5 TH with a RX 5700
 
-**Do not use this repository, follow the [official guide](https://dortania.github.io/OpenCore-Desktop-Guide/) to setup your hackmac**
+**Do not use this repository, follow the [official guide](https://dortania.github.io/OpenCore-Desktop-Guide/) to setup your hackintosh**
 
 ### Working
 
