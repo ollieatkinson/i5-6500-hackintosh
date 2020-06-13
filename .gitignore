@@ -1,0 +1,3 @@
+.DS_Store
+*.wav
+!OCEFIAudio_VoiceOver_Boot.wav
